@@ -1,0 +1,6 @@
+[
+    {"nome": "Educação Básica", "valor": "92%", "categoria": "educação" },
+    {"nome": "Acesso à Água Potável", "valor": "85%", "categoria": "economia" },
+    {"nome": "Emprego Formal", "valor": "68%" },
+    {"nome": "Saúde Pública", "valor": "74%", "categoria": "saude"}
+]
